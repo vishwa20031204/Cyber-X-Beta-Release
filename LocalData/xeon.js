@@ -1,3 +1,3 @@
 {
-	"name": "Cheems Bot Multi Device "
+	"name": "Powerd By Soft Craft™. [2023] ®  All rights reserved © "
 }
